@@ -11,14 +11,14 @@ Feature engineering (Revenue, Month, Year extraction)
 Insight-rich visualizations (bar, line, distribution charts)
 Export of cleaned dataset for BI dashboards (Power BI, Tableau)
 
-### TECH STACK
+## TECH STACK
 __________________________
 Python, Pandas, NumPy
 Matplotlib / Seaborn
 jupyter Notebook
 SQL for data extraction workflows
 
-#### PROJECT STRUCTURE
+## ROJECT STRUCTURE
 __________________________
 InsightSphere_SalesEDA/
 │── sales_eda.ipynb
@@ -26,17 +26,17 @@ InsightSphere_SalesEDA/
 └── data/
     └── sales_data.csv
 
-##### HOW TO USE
+## HOW TO USE
 __________________________
 Clone or download the repository
 Place your dataset inside the data/ folder
 Open sales_eda.ipynb in Jupyter
 Run the cells sequentially to generate EDA results & insights
 
-###### FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 __________________________
 Add forecasting model for revenue prediction
 Build an automated sales reporting script
 Connect with Power BI / Tableau dashboards
 
-###### LIPSA PATTANAIK | ITER SOA UNIVERSITY
+# LIPSA PATTANAIK | ITER SOA UNIVERSITY
